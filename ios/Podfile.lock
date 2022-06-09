@@ -1,0 +1,16 @@
+PODS:
+  - AgoraRtm_iOS (1.4.10)
+
+DEPENDENCIES:
+  - AgoraRtm_iOS
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtm_iOS
+
+SPEC CHECKSUMS:
+  AgoraRtm_iOS: 95e7070466f42a6494435a7f39fd2b13fc143cbf
+
+PODFILE CHECKSUM: 0cfd6382cf91ddad59925b41fdf08adc8313fbf5
+
+COCOAPODS: 1.11.2
